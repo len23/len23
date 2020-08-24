@@ -1,3 +1,7 @@
+> You cannot catch something you're not pursuing. 
+> So, now, if you're pursuing it, that doesn't mean you'll catch it, 
+> but generally you'll catch something interesting along the way
+
 ### My name is Lenin Montalvo and I'm from Ecuador.
 I have a degree in Informatic Systems Engenier and I fell in love with web Development.
 My principal skills are: 
@@ -8,6 +12,7 @@ My principal skills are:
 * PHP
 * Angular
 * Wordpress 
+
 
 <!--
 **len23/len23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
