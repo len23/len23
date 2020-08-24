@@ -5,7 +5,7 @@
 ## About me
 My name is Lenin Montalvo and I'm from Ecuador.
 
-I have a degree in **Informatic Systems Engenier** and I fell in love with **Web Development** :exploding_head: :heartbeat:.
+I have a degree in **Informatic Systems Engenier** and I fell in love with **Web Development** :exploding_head:.
 
 I've been working as a web developer for around one and a half year.
 
