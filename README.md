@@ -2,17 +2,43 @@
 > *So, now, if you're pursuing it, that doesn't mean you'll catch it,* 
 > *but generally you'll catch something interesting along the way*
 :+1:
-### My name is Lenin Montalvo and I'm from Ecuador.
-I have a degree in Informatic Systems Engenier and I fell in love with web Development.
-My principal skills are: 
-* HTML5 and CSS3
-* SASS
-* Javascript
-* React
-* PHP
-* Angular
-* Wordpress 
+## About me
+My name is Lenin Montalvo and I'm from Ecuador.
 
+I have a degree in Informatic Systems Engenier and I fell in love with web Development :exploding_head: :heartbeat:.
+
+I've been working as a web developer for around one and a half year.
+
+My principal skills are: 
+
+```javascript
+skills = {
+  front-end: [
+    "HTML5 and CSS3",
+    "SASS",
+    "React",
+    "Angular"
+  ],
+  back-end: [
+    "nodejs",
+    "ruby"
+  ],
+  programing-languages: [
+    "javascript",
+    "php",
+    "java",
+    "c++",
+    "c"  
+  ],
+  CMS : [
+    "wordpress"
+  ]
+}
+
+```
+
+Contact me 📫:
+t
 
 <!--
 **len23/len23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
