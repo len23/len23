@@ -39,7 +39,7 @@ skills = {
 
  Contact-me 📫:
    * twitter: [@lenon468](https://twitter.com/lenon468)
-   * linked in: [Lenin Montalvo](www.linkedin.com/in/lenin-montalvo-231092)
+   * linked in: [Lenin Montalvo](https://www.linkedin.com/in/lenin-montalvo-231092)
    * mail: [lenin.montalvo.23@gmail.com](mailto:lenin.montalvo.23@gmail.com)
 
  
