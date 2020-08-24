@@ -5,7 +5,7 @@
 ## About me
 My name is Lenin Montalvo and I'm from Ecuador.
 
-I have a degree in Informatic Systems Engenier and I fell in love with web Development :exploding_head: :heartbeat:.
+I have a degree in **Informatic Systems Engenier** and I fell in love with **Web Development** :exploding_head: :heartbeat:.
 
 I've been working as a web developer for around one and a half year.
 
@@ -37,8 +37,14 @@ skills = {
 
 ```
 
-Contact me 📫:
-t
+ Contact-me 📫:
+   twitter: [@lenon468](https://twitter.com/lenon468)
+   linked in: [Lenin Montalvo](www.linkedin.com/in/lenin-montalvo-231092)
+   mail: [lenin.montalvo.23@gmail.com] [mailto](mailto:lenin.montalvo.23@gmail.com)
+
+ 
+
+
 
 <!--
 **len23/len23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
