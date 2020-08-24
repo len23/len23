@@ -12,18 +12,10 @@ My principal skills are:
 
 ```javascript
 skills = {
-  front-end: [
-    "HTML5 and CSS3","SASS","React","Angular"
-  ],
-  back-end: [
-    "nodejs","ruby"
-  ],
-  programing-languages: [
-    "javascript","php","java","c++","c"  
-  ],
-  CMS : [
-    "wordpress"
-  ]
+  front-end: ["HTML5 and CSS3","SASS","React","Angular"],
+  back-end: ["nodejs","ruby"],
+  programing-languages: ["javascript","php","java","c++","c" ],
+  CMS: ["wordpress"]
 }
 ```
 
