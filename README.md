@@ -1,7 +1,7 @@
-> You cannot catch something you're not pursuing. 
-> So, now, if you're pursuing it, that doesn't mean you'll catch it, 
-> but generally you'll catch something interesting along the way
-
+> *You cannot catch something you're not pursuing.* 
+> *So, now, if you're pursuing it, that doesn't mean you'll catch it,* 
+> *but generally you'll catch something interesting along the way*
+:+1:
 ### My name is Lenin Montalvo and I'm from Ecuador.
 I have a degree in Informatic Systems Engenier and I fell in love with web Development.
 My principal skills are: 
