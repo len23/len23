@@ -8,7 +8,7 @@ Hi :wave:
 I am a **Software Engenieer** from Ecuador  and I fell in love with **Web Development** :exploding_head:.
 I've been working as a web developer for around one and a half year.
 
-You can see what I am currently up to on [my web page ](https://len23.github.io/My-Personal-Web-Page/) :globe_with_meridians:
+You can know more about me on [my web page ](https://len23.github.io/My-Personal-Web-Page/) :globe_with_meridians:
 
 My principal skills are: 
 
