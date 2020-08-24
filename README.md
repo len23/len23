@@ -1,4 +1,13 @@
-### Hi there 👋
+### My name is Lenin Montalvo and I'm from Ecuador.
+I have a degree in Informatic Systems Engenier and I fell in love with web Development.
+My principal skills are: 
+* HTML5 and CSS3
+* SASS
+* Javascript
+* React
+* PHP
+* Angular
+* Wordpress 
 
 <!--
 **len23/len23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
