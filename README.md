@@ -1,6 +1,6 @@
 > *You cannot catch something you're not pursuing.* 
 > *So, now, if you're pursuing it, that doesn't mean you'll catch it,* 
-> *but generally you'll catch something interesting along the way*
+> *but generally, you'll catch something interesting along the way*
 :+1:
 
 # Available for hire
