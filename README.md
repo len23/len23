@@ -3,7 +3,7 @@
 > *but generally you'll catch something interesting along the way*
 :+1:
 
-### Available for hire
+# Available for hire
 
 ## About me
 Hi :wave:
